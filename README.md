@@ -32,7 +32,6 @@ If you'd like to get involved with Gullintanni or have any questions, please don
 <ul>
 <li><b>Email:</b> getinvolved@gosec.cloud</li>
 <li><b>GitHub:</b> https://git.gosec.cloud</li>
-<li><b>Web:</b> https://www.gosec.cloud/community</li>
 </ul>
 
 Together, we can create a world where individuals have control over their digital lives and privacy. Join us in shaping the future of personal AI guardianship with Gullintanni!
